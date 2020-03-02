@@ -8,3 +8,13 @@
 /Users/jasminewilliams/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
 /Users/jasminewilliams/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.dll
 /Users/jasminewilliams/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.pdb
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.deps.json
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.json
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.dev.json
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.dll
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.pdb
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csprojAssemblyReference.cache
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfoInputs.cache
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.dll
+/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasminewilliams/workspace/csharp/exercises/lists/lists.csproj": {}
+    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/lists.csproj": {}
   },
   "projects": {
-    "/Users/jasminewilliams/workspace/csharp/exercises/lists/lists.csproj": {
+    "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasminewilliams/workspace/csharp/exercises/lists/lists.csproj",
+        "projectUniqueName": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/lists.csproj",
         "projectName": "lists",
-        "projectPath": "/Users/jasminewilliams/workspace/csharp/exercises/lists/lists.csproj",
+        "projectPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/lists.csproj",
         "packagesPath": "/Users/jasminewilliams/.nuget/packages/",
-        "outputPath": "/Users/jasminewilliams/workspace/csharp/exercises/lists/obj/",
+        "outputPath": "/Users/jasminewilliams/Desktop/workspace/csharp/exercises/lists/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasminewilliams/.nuget/NuGet/NuGet.Config"
